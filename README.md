@@ -1,6 +1,8 @@
-## Future Gaming Generation (FGG) 
 
 ![megg-hero](https://user-images.githubusercontent.com/98596722/176264338-904d81e3-6bbe-4809-bbd0-e8f8e74def4d.png)
+
+## Future Gaming Generation (FGG) 
+
 Ticker: $FGG
 
 Contract Address: https://bscscan.com/address/0xF088a8c4e68990C29E538Ee3368CEc8a93E11DfD
